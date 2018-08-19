@@ -1,0 +1,48 @@
+{
+	"details":{
+		"image":"download.png",
+		"name":"varu",
+		"phoneno":"+91-1234567897",
+		"email":"rajavardhini79@gmail.com",
+		"address":"vignan's nirula college."
+	},
+	"career":{
+		"info":"career choice is a challenging task"
+	},
+"education":[
+{ 
+	"qualification":"B.tech",
+	"institute":"vignan's nirula college",
+	"year":"2016-2020",
+	"percentage":"98%"
+},
+{
+"qualification":"intermediate",
+"institute":"srichaithanya",
+"year":"2014-2016",
+"percentage":"89%"
+},
+{
+	"qualification":"ssc",
+	"institute":"oxford",
+	"year":"2013-2014",
+	"percentage":"90%"
+}
+],
+"skills":[{
+	"title":"programming language",
+	"info":["c,c++,python,java,ruby"]
+},
+{
+	"title":"database",
+	"info":["sql,orcle,mysql"]
+},
+{
+	"title":"operating systems",
+	"info":["unix,linux,mac,windows"]
+}
+],
+    "achievements":{
+    	"info":["karati","dance","debt"]
+    }
+}
